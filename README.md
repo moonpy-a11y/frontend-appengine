@@ -1,5 +1,3 @@
-To make a README "animated" on GitHub, we use a combination of **dynamic badges**, **GIFs**, and **emojis**. Since you are deploying a serverless frontend, this design focuses on clean, professional visuals.
-
 ### 1. The README.md Content
 Copy and paste this entire block into a new file named `README.md` inside your `~/frontend-appengine` folder.
 
