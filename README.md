@@ -28,6 +28,7 @@ Google App Engine is a **Serverless** platform, meaning you focus only on the co
 ![Architecture Diagram](architecture-diagram.png)
 
 
+
 ---
 
 ## 📂 Repository Structure
